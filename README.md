@@ -41,7 +41,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrusjetson&show_icons=true&theme=dark)
  
 </div> -->
-<p><img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jetsoncyrus&theme=onedark&show_icons=true&locale=en&layout=compact&langs_count=6" alt="jetson" /><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=jetsoncyrus&theme=onedark" alt="jetson" /></p>
+<p><img align="center" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=jetsoncyrus&theme=onedark" alt="jetson" /></p>
 <!-- 
 <div align="center">
 
