@@ -58,7 +58,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cyrusjetson/cyrusjetson/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jetsoncyrus/jetsoncyrus/output/snake.svg" alt="Snake animation" />
 
 ###
 
